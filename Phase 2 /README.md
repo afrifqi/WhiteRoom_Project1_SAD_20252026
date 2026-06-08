@@ -20,7 +20,7 @@
 ## 📄Report 
 ---
 <p align ="center">
-  <a href="">
-  <img src="" alt= "Click me" width ="500">
+  <a href="https://drive.google.com/file/d/1VkJcYYFRk_5yVEo0LksOT8OQznUz02xz/view?usp=sharing">
+  <img src="https://github.com/afrifqi/WhiteRoom_Project1_SAD_20252026/blob/main/Phase%202%20/image/Untitled%20design%20(1)%20(1).png" alt= "Click me" width ="500">
 </a>
 </p>
