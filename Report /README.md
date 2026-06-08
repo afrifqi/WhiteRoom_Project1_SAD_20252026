@@ -1,5 +1,6 @@
 <div align = "center">
-# 🏢 PHASE 1 : REPORT
+   
+# 🏢 Phase 1- Project Proposal and Planning 
 </div>
 
 ---
@@ -18,15 +19,11 @@
 
 ---
 ## 📄Report 
----
-<p align ="center">
-  <a href="https://drive.google.com/file/d/1XHqN3eLuM6qfp7gBTqJoH5pGS799eCot/view?usp=sharing">
-  <img src="## 📄Report 
----
+
 <p align ="center">
   <a href="https://drive.google.com/file/d/1-D56lllcEDhYikJ8eBS2kGVGVhcU9LEe/view?usp=sharing">
   <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%203%20%5B%20Report%20%5D/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
 </a>
-</p>" alt= "Click me" width ="500">
+</p>
 </a>
 </p>
