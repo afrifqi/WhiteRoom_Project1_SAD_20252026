@@ -9,12 +9,12 @@
   
 | **NAME** |**WORK**|
 |----------|--------|
-|**AFIF RIFQI BIN SHAIFUL REZAL** |5.1 -> Current business process <br> 5.2 -> Functional Requirement|
-|**AMAL HIJAZ BIN ABD WAHID**| 5.3 -> Non-functional Requirement <br> 5.4 -> Logical DFD AS-IS system |
-| **ADAM FAHIM MOHD FOAD**|5.4 -> Logical DFD AS-IS system |
-|**AMREISH A/L UMAPATHY**|1.0 Overview of the Project <br> 2.0 Problem Statement |
-|**ADAM BIN BAHARUDDIN**|6.0 -> Summary of Requirement Analysis process|
-|**AHMAD NUR SHAZLAN BIN BAHRI**|3.0 -> Proposed Solution  <br> 4.0 -> Information gathering process |
+|**AFIF RIFQI BIN SHAIFUL REZAL** |2.0 -> Problem Statement <br> 7.1 (Physical DFD TO-Be system)-> Event Response Table , Structure Chart & System Architecture|
+|**AMAL HIJAZ BIN ABD WAHID**| 4.0 -> Current Business Process/Workflow <br> 7.1 (Physical DFD TO-BE system) -> Diagram 0 & Child diagram |
+| **ADAM FAHIM MOHD FOAD**| 7.1 (Physical DFD TO-BE system) -> Partitioning & CRUD Matrix <br> 9.0 -> Summary of the proposed system|
+|**AMREISH A/L UMAPATHY**|8.0->System Wireframe(Input Design , Output Design)|
+|**ADAM BIN BAHARUDDIN**| 1.0 -> Overview of the Project <br> 6.2 -> Process Specification |
+|**AHMAD NUR SHAZLAN BIN BAHRI**| 3.0 -> Proposed Solutions <br> 6.1 -> Logical DFD TO-BE system |
 ---
 
 ## 📄Report 
